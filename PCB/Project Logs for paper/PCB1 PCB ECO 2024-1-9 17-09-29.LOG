@@ -1,0 +1,16 @@
+Added Component: Designator=U1(ssd1315)
+Added Component: Designator=U2(P1)
+Added Component: Designator=U3(ESP8266)
+Added Component: Designator=U4(DS18B20)
+Added Component: Designator=U5(ZhuoDu)
+Added Net: Name=3.3
+Added Net: Name=5.5
+Added Net: Name=ADC
+Added Net: Name=DATA
+Added Net: Name=GND
+Added Net: Name=RX
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=TX
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

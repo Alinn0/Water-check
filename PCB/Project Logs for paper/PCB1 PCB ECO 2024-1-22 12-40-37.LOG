@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=DS18B20 New DesignItemId=Weal
+Change Component Footprint: Designator=U1 Old Footprint=DS18B20 New Footprint=Weal
+Added Room: Name=Sheet1

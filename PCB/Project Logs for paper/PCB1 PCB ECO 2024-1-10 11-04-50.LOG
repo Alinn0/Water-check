@@ -1,0 +1,40 @@
+Added Component: Designator=U1(P1)
+Added Component: Designator=U2(ssd1315)
+Added Component: Designator=U3(DS18B20)
+Added Component: Designator=U4(ZhuoDu)
+Added Component: Designator=U5(ESP8266)
+Added Pin To Net: NetName=NetU1_3.3 Pin=U1-3.3
+Added Pin To Net: NetName=NetU1_3.3 Pin=U5-3.3
+Added Net: Name=NetU1_3.3
+Added Pin To Net: NetName=NetU1_5.5 Pin=U1-5.5
+Added Pin To Net: NetName=NetU1_5.5 Pin=U2-VCC
+Added Pin To Net: NetName=NetU1_5.5 Pin=U3-VCC
+Added Net: Name=NetU1_5.5
+Added Pin To Net: NetName=NetU1_ADC Pin=U1-ADC
+Added Net: Name=NetU1_ADC
+Added Pin To Net: NetName=NetU1_GND Pin=U1-GND
+Added Pin To Net: NetName=NetU1_GND Pin=U2-GND
+Added Pin To Net: NetName=NetU1_GND Pin=U3-DAT
+Added Pin To Net: NetName=NetU1_GND Pin=U5-GND
+Added Net: Name=NetU1_GND
+Added Pin To Net: NetName=NetU1_PG9 Pin=U1-PG9
+Added Pin To Net: NetName=NetU1_PG9 Pin=U3-GND
+Added Net: Name=NetU1_PG9
+Added Pin To Net: NetName=NetU1_RX Pin=U1-RX
+Added Pin To Net: NetName=NetU1_RX Pin=U5-TX
+Added Net: Name=NetU1_RX
+Added Pin To Net: NetName=NetU1_SCL Pin=U1-SCL
+Added Pin To Net: NetName=NetU1_SCL Pin=U2-SCL
+Added Net: Name=NetU1_SCL
+Added Pin To Net: NetName=NetU1_SDA Pin=U1-SDA
+Added Pin To Net: NetName=NetU1_SDA Pin=U2-SDA
+Added Net: Name=NetU1_SDA
+Added Pin To Net: NetName=NetU1_TX Pin=U1-TX
+Added Pin To Net: NetName=NetU1_TX Pin=U5-RX
+Added Net: Name=NetU1_TX
+Added Member To Class: ClassName=Sheet1 Member=Component U1 P1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 SSD1315
+Added Member To Class: ClassName=Sheet1 Member=Component U3 DS18B20
+Added Member To Class: ClassName=Sheet1 Member=Component U4 ZhuoDu
+Added Member To Class: ClassName=Sheet1 Member=Component U5 ESP8266
+Added Room: Name=Sheet1

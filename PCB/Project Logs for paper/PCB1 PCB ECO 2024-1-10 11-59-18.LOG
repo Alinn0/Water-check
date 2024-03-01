@@ -1,0 +1,40 @@
+Added Component: Designator=P1(HDR2X3_CEN)
+Added Component: Designator=P2(HDR2X3_CEN)
+Added Component: Designator=P3(HDR2X3_CEN)
+Added Component: Designator=U1(P1)
+Added Component: Designator=U2(ssd1315)
+Added Component: Designator=U3(DS18B20)
+Added Component: Designator=U4(ZhuoDu)
+Added Component: Designator=U5(ESP8266)
+Added Pin To Net: NetName=3.3 Pin=U1-3.3
+Added Pin To Net: NetName=5.5 Pin=U1-5.5
+Added Pin To Net: NetName=ADC Pin=U1-ADC
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=PG9 Pin=U1-PG9
+Added Pin To Net: NetName=RX Pin=U1-RX
+Added Pin To Net: NetName=SCL Pin=U1-SCL
+Added Pin To Net: NetName=SDA Pin=U1-SDA
+Added Pin To Net: NetName=TX Pin=U1-TX
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=SCL Pin=U2-SCL
+Added Pin To Net: NetName=SDA Pin=U2-SDA
+Added Pin To Net: NetName=5.5 Pin=U2-VCC
+Added Pin To Net: NetName=PG9 Pin=U3-DAT
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=5.5 Pin=U3-VCC
+Added Pin To Net: NetName=ADC Pin=U4-AO
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=5.5 Pin=U4-VCC
+Added Pin To Net: NetName=3.3 Pin=U5-3.3
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=TX Pin=U5-RX
+Added Pin To Net: NetName=RX Pin=U5-TX
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 3X2A
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 3X2A
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3X2A
+Added Member To Class: ClassName=Sheet1 Member=Component U1 P1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 SSD1315
+Added Member To Class: ClassName=Sheet1 Member=Component U3 DS18B20
+Added Member To Class: ClassName=Sheet1 Member=Component U4 ZhuoDu
+Added Member To Class: ClassName=Sheet1 Member=Component U5 ESP8266
+Added Room: Name=Sheet1

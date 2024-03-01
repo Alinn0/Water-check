@@ -1,0 +1,11 @@
+Added Component: Designator=U1(ssd1315)
+Added Component: Designator=U2(P1)
+Added Component: Designator=U3(ESP8266)
+Added Component: Designator=U4(DS18B20)
+Added Component: Designator=U5(ZhuoDu)
+Added Member To Class: ClassName=Sheet1 Member=Component U1 SSD1315
+Added Member To Class: ClassName=Sheet1 Member=Component U2 P1
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ESP8266
+Added Member To Class: ClassName=Sheet1 Member=Component U4 DS18B20
+Added Member To Class: ClassName=Sheet1 Member=Component U5 ZhuoDu
+Added Room: Name=Sheet1
